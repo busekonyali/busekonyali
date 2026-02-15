@@ -1,16 +1,40 @@
 <h1 align="center">Hi 👋, I'm Buse Konyali</h1>
-<h3 align="center">Computer Engineering student at Eskişehir Osmangazi University</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
-- 📫 How to reach me **b14busekonyali@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/buse konyalı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buse konyalı" height="30" width="40" /></a>
+<p align="center">
+  🎓 Eskişehir Osmangazi University <br>
+  📫 b14busekonyali@gmail.com
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busekonyali&show_icons=true&locale=en&layout=compact" alt="busekonyali" /></p>
+<h3 align="center">🌐 Connect with me</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busekonyali&show_icons=true&locale=en" alt="busekonyali" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/busekonyali" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=busekonyali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=busekonyali&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
+</p>
