@@ -11,11 +11,12 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/busekonyali" target="_blank">
+  <a href="https://www.linkedin.com/in/buse-konyali/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
+---
 ---
 
 <h3 align="center">💻 Languages & Tools</h3>
